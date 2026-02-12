@@ -3,7 +3,7 @@ Hands-on operational analytics project
 # 📦 E-Commerce Operations Analytics
 
 **Status:** Active — hands-on  
-🔗 Part of my independent analytics portfolio: https://wat-nxt.com
+🔗 Part of my independent analytics portfolio: https://wat-nxt.com/portfolio
 
 ---
 
@@ -139,7 +139,7 @@ Queries, transformations, and insights are being refined iteratively as the proj
 
 This project is part of my broader independent analytics work documented at:
 
-🔗 https://wat-nxt.com
+🔗 https://wat-nxt.com/portfolio
 
 Related initiatives:
 - **Uno Global AI** — systems-first enterprise analytics  
